@@ -4,7 +4,7 @@
 I´m Guilherme from Brazil, actually living in Spain, and im Junior Back-end Developer with Python and Flask, also expanding to Django. I really enjoy learning lenguages and frameworks, for now i have Python as high-level programming language and c/c++ as low-level language. I usually use relational databases (SQL) and last but not least i have a basic Front-end knowledge HTML, CSS, Bootstrap.
 
 ## Skills
-* :computer: PYTHON/ C/C++ /SQL  / HTML / CSS
+:computer: PYTHON/ C/C++ /SQL  / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-nogueira-da-silva-b05ab51b0/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/guilher95)  
