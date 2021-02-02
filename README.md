@@ -6,10 +6,8 @@ I´m Guilherme from Brazil, actually living in Spain, and im Junior Back-end Dev
 ## Skills
 :computer: PYTHON/ C/C++ /SQL  / HTML / CSS
 
-:mailbox_with_mail:https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-nogueira-da-silva-//  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/guilher95)  
-:mailbox_with_mail:g.nogueira.ds@gmail.com
-
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/guilher95)  
+ 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilher95)](https://github.com/anuraghazra/github-readme-stats)
 
