@@ -16,5 +16,4 @@ Skills: PYTHON/ C/C++ /SQL  / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guilher95&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=guilher95)  
 
