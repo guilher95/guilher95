@@ -6,11 +6,9 @@ I´m Guilherme from Brazil, actually living in Spain, and im Junior Back-end Dev
 ## Skills
 :computer: PYTHON/ C/C++ /SQL  / HTML / CSS
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/guilher95)  
+
  
- ## Hey 👋, 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/guilhermenogueira-da-silva--0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/guilhermenogueira-da-silva-/)](https://www.linkedin.com/in/https://www.linkedin.com/in/guilhermenogueira-da-silva-/) 
- 
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilher95&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
 
