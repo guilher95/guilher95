@@ -1,10 +1,10 @@
 ### Hi there 👋, Guilherme Nogueira
 ![Junior Back-end Developer](https://github.com/guilher95/guilher95/blob/main/JrBackendv2.png)
 
-I´m Guilherme from Brazil, actually living in Spain, and im Junior Back-end Developer with Python and Flask, also expanding to Django. I really enjoy learning lenguages and frameworks, for now i have Python as high-level programming language and c/c++ as low-level language. I usually use relational databases (SQL) and last but not least i have a basic Front-end knowledge HTML, CSS, Bootstrap.
+I´m Guilherme from Brazil, actually living in Spain, and im Junior Back-end Developer. I really enjoy learning lenguages and frameworks,
 
 ## Skills
-:computer: PYTHON/ C/C++ /SQL  / HTML / CSS
+:computer: PYTHON/ C/C# /SQL /MongoDB  / HTML / CSS
 
 
  
